@@ -1,0 +1,1 @@
+En este proyecto realizamos la conexion a el motor de base de datos MySQL, en la base de datos realizmos por medio de los comanados ENCRYPT la encriptación de las contraseñas ingresada por el usuario y con el comando DECRYPT desencrpitamos la contraseña para ver que si sea la contraseña que el usuario haya ingresado, por ultimo realizamos los comandos y verificamos la informacion
